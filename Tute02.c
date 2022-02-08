@@ -22,7 +22,7 @@ int main() {
  float distance , amoount;
   
 printf("Enter the distance that van has travalled : ");
-scanf("%f , &distance);
+scanf("%f" , &distance);
  
 if(distance <= 30)
       {
